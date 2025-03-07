@@ -1258,3 +1258,12 @@
 3/6/2025 | 8:14:41 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/6/2025 | 8:14:41 PM | INFO | Trying to activate mining on-chain for wallet: 0xf461fAB536EC3E7034Aaa999e9B53B676D4C4c0d 
 3/6/2025 | 8:14:53 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xa11c38a86eb8a07c58683df0716a4b67dd235b52236adb1e83c4d132d1ce5792 
+3/7/2025 | 1:05:09 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/7/2025 | 1:05:09 AM | INFO | Start process for wallet 0xf461fAB536EC3E7034Aaa999e9B53B676D4C4c0d 
+3/7/2025 | 1:05:10 AM | INFO | Trying To Login for wallet: 0xf461fAB536EC3E7034Aaa999e9B53B676D4C4c0d 
+3/7/2025 | 1:05:11 AM | INFO | Login successful... 
+3/7/2025 | 1:05:11 AM | INFO | Trying to check user info... 
+3/7/2025 | 1:05:12 AM | INFO | User ID: 103184125 | Twitter: @alikavelerie | Total Points: 456000 
+3/7/2025 | 1:05:12 AM | INFO | Trying to check user miner status... 
+3/7/2025 | 1:05:12 AM | INFO | Last mining time: 3/6/2025, 8:14:48 PM
+3/7/2025 | 1:05:12 AM | WARN | Mining already started, next mining time is: 3/7/2025, 8:14:48 PM
