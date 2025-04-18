@@ -3560,3 +3560,16 @@
 4/17/2025 | 4:18:09 PM | INFO | Trying to activate mining on-chain for wallet: 0xf461fAB536EC3E7034Aaa999e9B53B676D4C4c0d 
 4/17/2025 | 4:18:14 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"500 Internal Server Error"},"shortMessage":"server response 500 Internal Server Error"}
 4/17/2025 | 4:18:14 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/17/2025 | 8:15:15 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 8:15:15 PM | INFO | Start process for wallet 0xf461fAB536EC3E7034Aaa999e9B53B676D4C4c0d 
+4/17/2025 | 8:15:16 PM | INFO | Trying To Login for wallet: 0xf461fAB536EC3E7034Aaa999e9B53B676D4C4c0d 
+4/17/2025 | 8:15:17 PM | INFO | Login successful... 
+4/17/2025 | 8:15:17 PM | INFO | Trying to check user info... 
+4/17/2025 | 8:15:17 PM | INFO | User ID: 103184125 | Twitter: @alikavelerie | Total Points: 1320000 
+4/17/2025 | 8:15:17 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 8:15:22 PM | INFO | Last mining time: 4/16/2025, 8:19:54 AM
+4/17/2025 | 8:15:22 PM | INFO | Trying to start Mining for wallet: 0xf461fAB536EC3E7034Aaa999e9B53B676D4C4c0d 
+4/17/2025 | 8:15:25 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+4/17/2025 | 8:15:25 PM | INFO | Trying to activate mining on-chain for wallet: 0xf461fAB536EC3E7034Aaa999e9B53B676D4C4c0d 
+4/17/2025 | 8:15:25 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
+4/17/2025 | 8:15:25 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
